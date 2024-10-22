@@ -32,7 +32,7 @@ class IconsList extends StatelessWidget {
                 ),
                 child: Icon(Icons.shopping_bag, color: Colors.white),
               ),
-              SizedBox(height: 2), // فاصله بین آیکون و متن را کم می‌کند
+              SizedBox(height: 2),
               Text('کالاها', style: TextStyle(fontSize: 12)),
             ],
           ),
@@ -54,7 +54,7 @@ class IconsList extends StatelessWidget {
                 ),
                 child: Icon(Icons.shopping_cart, color: Colors.white),
               ),
-              SizedBox(height: 2), // فاصله کم‌تر
+              SizedBox(height: 2),
               Text('موجودی انبار', style: TextStyle(fontSize: 12)),
             ],
           ),
@@ -76,7 +76,7 @@ class IconsList extends StatelessWidget {
                 ),
                 child: Icon(Icons.login, color: Colors.white),
               ),
-              SizedBox(height: 2), // فاصله کم‌تر
+              SizedBox(height: 2),
               Text('ثبت نام', style: TextStyle(fontSize: 12)),
             ],
           ),
