@@ -63,12 +63,8 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   assets:
-    - assets/img/topBar.jpg
-    - assets/img/TopBar3.jpeg
-    - assets/img/avatar.png
     - assets/img/avatar2.jpg
     - assets/img/image.png
-    - assets/img/bank.jpg
     - assets/img/bank_cartoon.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
